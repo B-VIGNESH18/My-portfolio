@@ -14,7 +14,7 @@ export const PROJECTS = [
     {
       "title": "Portfolio Website",
       image: "/images/portfolio.PNG",
-      "url": "http://localhost:5173/",
+      "url": "https://cosmic-elf-0ca310.netlify.app/",
       "description": "A personal portfolio designed to showcase skills, projects, and achievements. Built using React and enhanced with animation effects using AOS (Animate on Scroll).",
       "technologies": ["React", "AOS"]
     },
